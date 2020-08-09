@@ -14,6 +14,8 @@ public class FirstClass {
 		
 		System.out.println("first commit from alpaslan branch");
 		System.out.println("second commit from local alpaslan");
+		System.out.println("this is our conflict");
+		
 	}
 
 }
